@@ -22,6 +22,20 @@ A curated list of examples & ideas of using Python for Social Good.
     * http://www.cdlib.org/
     * http://www.ppehlab.org/datarefuge
     * https://climatemirror.org/
+  - Python scraping
+    * Requests + BeautifulSoup
+    * https://scrapy.org/
+    * https://scrapinghub.com/
+- the current rate of power consumption for cryptocurrency mining is a bit worrisome
+  * Iceland, Denmark…
+    * https://www.washingtonpost.com/news/worldviews/wp/2018/02/13/cryptocurrency-mining-in-iceland-is-using-so-much-energy-the-electricity-may-run-out/
+    * https://www.theguardian.com/technology/2018/jan/17/bitcoin-electricity-usage-huge-climate-cryptocurrency
+  * ⚡️ Call for action
+    * is there a way to make such computation more green?
+      * supply-demand balancing
+      * negative energy prices
+      * helping balance out volatility of wind turbines
+    * can a proof of environment friendliness be encoded in the blockchain?
 
 ## Internet
 
