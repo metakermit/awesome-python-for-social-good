@@ -1,6 +1,9 @@
 # Awesome Python for Social Good [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of examples & ideas of using Python for Social Good.
+> A curated list of examples & ideas of using Python for Social Good.
+
+This list is based on [my talk](https://speakerdeck.com/metakermit/python-for-social-good)
+at PyDays Vienna 2018, but contributions of new ideas and technical examples are very welcome. 🙂
 
 ## Contents
 
