@@ -15,7 +15,7 @@ A curated list of examples & ideas of using Python for Social Good.
 ## Environment
 
 - global warming data
-  - [deleted data](https://www.theguardian.com/us-news/2017/may/14/donald-trump-climate-change-mentions-government-websites) - Trump’s administration [deleting public data on climate change from government websites
+  - [deleted data](https://www.theguardian.com/us-news/2017/may/14/donald-trump-climate-change-mentions-government-websites) – Trump’s administration [deleting public data on climate change from government websites
   - archivers
     * https://envirodatagov.org/
     * http://eotarchive.cdlib.org/2016.html
@@ -24,6 +24,24 @@ A curated list of examples & ideas of using Python for Social Good.
     * https://climatemirror.org/
 
 ## Internet
+
+- [recent DDoS attacks](https://threatpost.com/in-wake-of-biggest-ever-ddos-attack-experts-say-brace-for-more/130205/) – the "Mirai" botnet attack on DynDNS and the Memcached attack on GitHub
+- make sure your servers are secure
+  * don’t expose Memcached to the Internet!
+  * [server](https://github.com/punkrockdev/server) – keep your software up to date. Unattended OS upgrades using Ansible
+  * [PyMetasploit](https://github.com/allfro/pymetasploit) – a Python library for running Metasploit, the tool for pen-testing your sites
+  * learn the basics of internet security
+    * [hashlib](https://docs.python.org/3/library/hashlib.html) – hash passwords with scrypt
+    * [Let’s encrypt](https://letsencrypt.org/) – use HTTPS
+    * [cryptography.io](https://cryptography.io) – don’t roll your own crypto, use existing good implementations
+  * don’t let your users behave insecurely
+    * https://www.troyhunt.com/86-of-passwords-are-terrible-and-other-statistics/
+    * elegant & safe API check – https://www.troyhunt.com/ive-just-launched-pwned-passwords-version-2/
+  * maybe help keep an eye on the Internet
+      * check those smart toasters exposed to the internet now & then
+      * https://thehackernews.com/2016/02/hacking-wireless-router.html
+      * https://www.forbes.com/sites/thomasbrewster/2015/10/01/vigilante-malware-makes-you-safer/#4771f3521fd5
+      * not the hero Gotham deserves…
 
 ## Privacy
 
