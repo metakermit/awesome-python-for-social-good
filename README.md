@@ -67,6 +67,8 @@ at PyDays Vienna 2018, but contributions of new ideas and technical examples are
 * ⚡️ Call for action
   * [Signal](https://signal.org/) – great e2e encrypted chat app, open source & needs UX help
   * [Mailpile](https://github.com/mailpile/Mailpile) – web-based email client w/ PGP in Python
+  * [Themis](https://github.com/cossacklabs/themis) – open-source cryptography library for making typical encryption schemes easy to use in the real-world use cases like data at rest, authenticated data exchange, transport protection, authentication, and so on. Allows to easily build-in encryption into your app, has Python wrapper and examples.
+  * [Acra](https://github.com/cossacklabs/acra) – Acra is a network encryption proxy to protect databases and database-based applications from data leaks, allowing greater security for distributed applications via cryptography and intrusion detection. Open source, has Python client libraries. 
 
 ## Free Press
 
