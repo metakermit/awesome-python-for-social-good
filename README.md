@@ -3,11 +3,12 @@
 > A curated list of examples & ideas of using Python for Social Good.
 
 This list is based on [my talk](https://speakerdeck.com/metakermit/python-for-social-good)
-at PyDays Vienna 2018, but contributions of new ideas and technical examples are very welcome. 🙂
+at PyDays Vienna 2018 and extended with new content over time. Contributions of new ideas and technical examples are very welcome. 🙂
 
 ## Contents
 
 - [Environment](#environment)
+- [Poverty](#poverty)
 - [Internet](#internet)
 - [Privacy](#privacy)
 - [Free Press](#free-press)
@@ -39,6 +40,10 @@ at PyDays Vienna 2018, but contributions of new ideas and technical examples are
       * negative energy prices
       * helping balance out volatility of wind turbines
     * can a proof of environment friendliness be encoded in the blockchain?
+
+## Poverty
+
+- Costa Rican household poverty level prediction using machine learning – [part1](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc), [part2](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-two-2773bd52daf0) & [the Kaggle competition](https://www.kaggle.com/c/costa-rican-household-poverty-prediction)
 
 ## Internet
 
